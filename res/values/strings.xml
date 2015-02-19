@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">心飞翔群发小助手</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="smsHint">请在这里输入你的DIY祝福语</string>
+    <string name="nameHint">请在这里输入你的名字</string>
+    <string name="addSms">添加DIY祝福语</string>
+    <string name="sendSms">群发消息</string>
+</resources>
